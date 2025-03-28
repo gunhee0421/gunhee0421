@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 <div>
   <!-- react native -->
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <!-- flutter -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </div>
 
 ## INFO
