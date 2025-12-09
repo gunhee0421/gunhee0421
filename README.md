@@ -1,24 +1,7 @@
-<!--
-**gunhee0421/gunhee0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+gunhee's+Github)](https://git.io/typing-svg)
 
-## STACK
-### Web FrontEnd
+### 🔥 Stacks
 <div>
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <!-- TypeScript -->
@@ -29,31 +12,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Next.js-000000?style=style=flat&logo=nextdotjs&logoColor=white">
 </div>
 
-### CSS
-<div>
-  <!-- styled-componet -->
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
-</div>
+### ✨ Activity
 
-### BackEnd
-<div>
-  <!-- mysql -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <!-- spring boot -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <!-- aws -->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</div>
+`2022.02 ~ 2027.02` 강남대학교 소프트웨어전공 졸업예정
 
-### Cross Platform
-<div>
-  <!-- react native -->
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</div>
+`2025.11 ~ 2025.02` 나눔비타민(주) 인턴
 
-## INFO
+`2025.02 ~ 2025.08` 카카오부트캠프 판교 2기 - 풀스택 과정 수료
+
+`2024.08 ~ 2024.12` Google Developer Groups On Campus: Kangnam Univ. 1기 - Web Member
+
+<br />
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgml771)](https://solved.ac/rjsgml771/)
 
 
