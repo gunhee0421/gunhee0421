@@ -21,10 +21,3 @@
 `2025.02 ~ 2025.08` 카카오부트캠프 판교 2기 - 풀스택 과정 수료
 
 `2024.08 ~ 2024.12` Google Developer Groups On Campus: Kangnam Univ. 1기 - Web Member
-
-<br />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgml771)](https://solved.ac/rjsgml771/)
-
-
-
